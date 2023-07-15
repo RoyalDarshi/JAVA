@@ -84,7 +84,6 @@ class ResultAdv
 		System.out.println(result2);	
 	}@Override
 	public String toString() {
-		// TODO Auto-generated method stub
 		StringBuilder sBuilder = new StringBuilder();
 		sBuilder.append("Name: " + name + "\n");
 		sBuilder.append("Branch: " + branch + "\n");
